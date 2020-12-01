@@ -69,6 +69,6 @@ body {
     color: blue;
 }
 
-.Link::hover {
+.Link:hover {
     color:red;
 }
